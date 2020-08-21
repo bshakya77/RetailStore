@@ -27,6 +27,7 @@ namespace RetailStore.ApiSearch
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //dependency injection for each services
             services.AddScoped<ICustomersService, CustomersService>();
             services.AddScoped<IOrdersService, OrdersService>();
             services.AddScoped<ISearchService, SearchService>();
