@@ -1,0 +1,42 @@
+services:
+  retailstore.apicustomers:
+    build:
+      context: C:\Bijay\Github\microservices\RetailStore
+      dockerfile: RetailStore.ApiCustomers\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: retailstoreapicustomers
+    ports:
+    - published: 6002
+      target: 80
+  retailstore.apiorders:
+    build:
+      context: C:\Bijay\Github\microservices\RetailStore
+      dockerfile: RetailStore.ApiOrders\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: retailstoreapiorders
+    ports:
+    - published: 6003
+      target: 80
+  retailstore.apiproducts:
+    build:
+      context: C:\Bijay\Github\microservices\RetailStore
+      dockerfile: RetailStore.ApiProducts\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: retailstoreapiproducts
+    ports:
+    - published: 6001
+      target: 80
+  retailstore.apisearch:
+    build:
+      context: C:\Bijay\Github\microservices\RetailStore
+      dockerfile: RetailStore.ApiSearch\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: retailstoreapisearch
+    ports:
+    - published: 6004
+      target: 80
+version: '3.4'

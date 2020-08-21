@@ -1,0 +1,33 @@
+version: '3.4'
+
+services:
+  retailstore.apicustomers:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "6002:80"
+
+  retailstore.apiorders:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "6003:80"
+
+
+  retailstore.apiproducts:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "6001:80"
+
+
+  retailstore.apisearch:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Services__Products=http://retailstore.apiproducts
+      - Services__Customers=http://retailstore.apicustomers
+      - Services__Orders=http://retailstore.apiorders
+
+    ports:
+      - "6004:80"
+

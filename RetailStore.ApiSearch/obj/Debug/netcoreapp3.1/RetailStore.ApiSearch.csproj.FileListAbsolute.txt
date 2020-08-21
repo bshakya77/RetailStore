@@ -20,6 +20,7 @@ C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiSearch\bin\Debug\netcor
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiSearch\bin\Debug\netcoreapp3.1\Polly.dll
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiSearch\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiSearch\obj\Debug\netcoreapp3.1\RetailStore.ApiSearch.csprojAssemblyReference.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiSearch\obj\Debug\netcoreapp3.1\RetailStore.ApiSearch.MvcApplicationPartsAssemblyInfo.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiSearch\obj\Debug\netcoreapp3.1\RetailStore.ApiSearch.AssemblyInfoInputs.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiSearch\obj\Debug\netcoreapp3.1\RetailStore.ApiSearch.AssemblyInfo.cs

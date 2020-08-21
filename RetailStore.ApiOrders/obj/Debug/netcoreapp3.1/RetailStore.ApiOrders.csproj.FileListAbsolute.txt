@@ -27,6 +27,7 @@ C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiOrders\bin\Debug\netcor
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiOrders\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiOrders\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiOrders\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiOrders\obj\Debug\netcoreapp3.1\RetailStore.ApiOrders.csprojAssemblyReference.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiOrders\obj\Debug\netcoreapp3.1\RetailStore.ApiOrders.MvcApplicationPartsAssemblyInfo.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiOrders\obj\Debug\netcoreapp3.1\RetailStore.ApiOrders.AssemblyInfoInputs.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiOrders\obj\Debug\netcoreapp3.1\RetailStore.ApiOrders.AssemblyInfo.cs

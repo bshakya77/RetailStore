@@ -100,7 +100,6 @@ C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\bin\Debug\netc
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netcoreapp3.1\RetailStore.ApiProducts.csprojAssemblyReference.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netcoreapp3.1\RetailStore.ApiProducts.MvcApplicationPartsAssemblyInfo.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netcoreapp3.1\RetailStore.ApiProducts.AssemblyInfoInputs.cache
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netcoreapp3.1\RetailStore.ApiProducts.AssemblyInfo.cs
@@ -111,3 +110,4 @@ C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netc
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netcoreapp3.1\RetailStore.ApiProducts.dll
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netcoreapp3.1\RetailStore.ApiProducts.pdb
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netcoreapp3.1\RetailStore.ApiProducts.genruntimeconfig.cache
+C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiProducts\obj\Debug\netcoreapp3.1\RetailStore.ApiProducts.csprojAssemblyReference.cache

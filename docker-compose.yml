@@ -1,0 +1,29 @@
+version: '3.4'
+
+services:
+  retailstore.apicustomers:
+    image: ${DOCKER_REGISTRY-}retailstoreapicustomers
+    build:
+      context: .
+      dockerfile: RetailStore.ApiCustomers\Dockerfile
+
+  retailstore.apiorders:
+    image: ${DOCKER_REGISTRY-}retailstoreapiorders
+    build:
+      context: .
+      dockerfile: RetailStore.ApiOrders\Dockerfile
+
+
+  retailstore.apiproducts:
+    image: ${DOCKER_REGISTRY-}retailstoreapiproducts
+    build:
+      context: .
+      dockerfile: RetailStore.ApiProducts\Dockerfile
+
+
+  retailstore.apisearch:
+    image: ${DOCKER_REGISTRY-}retailstoreapisearch
+    build:
+      context: .
+      dockerfile: RetailStore.ApiSearch\Dockerfile
+

@@ -37,3 +37,4 @@ C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiCustomers\obj\Debug\net
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiCustomers\obj\Debug\netcoreapp3.1\RetailStore.ApiCustomers.dll
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiCustomers\obj\Debug\netcoreapp3.1\RetailStore.ApiCustomers.pdb
 C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiCustomers\obj\Debug\netcoreapp3.1\RetailStore.ApiCustomers.genruntimeconfig.cache
+C:\Bijay\Github\microservices\RetailStore\RetailStore.ApiCustomers\obj\Debug\netcoreapp3.1\RetailStore.ApiCustomers.csprojAssemblyReference.cache
