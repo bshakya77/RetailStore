@@ -32,6 +32,7 @@ namespace RetailStore.ApiSearch
             services.AddScoped<ISearchService, SearchService>();
             services.AddScoped<IProductsService, ProductsService>();
 
+            //HttpClient service configuration for each microservices   
             services.AddHttpClient("CustomersService", config =>
             {
                 config.BaseAddress = new Uri(Configuration["Services:Customers"]);
