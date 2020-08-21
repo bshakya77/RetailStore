@@ -20,7 +20,7 @@ services:
     ports:
       - "6001:80"
 
-
+  #added environment for products, customers, orders microservices in search service
   retailstore.apisearch:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
